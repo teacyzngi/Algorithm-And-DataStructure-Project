@@ -1,0 +1,9 @@
+*.exe
+desktop.ini
+
+# Build/artifacts
+*.o
+*.obj
+
+# VS Code workspace
+.vscode/
